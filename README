@@ -1,4 +1,8 @@
 JPlurk-OAuth is the Plurk API implementation for Plurk API 2.0.
 
-I use the API to get pluck data.
+This use the Google API to get plurk timeline data.
+The code was writed in Example.class.
+
+
+
 
