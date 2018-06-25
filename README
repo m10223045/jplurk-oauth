@@ -3,6 +3,9 @@ JPlurk-OAuth is the Plurk API implementation for Plurk API 2.0.
 This use the Google API to get plurk timeline data.
 I change the code in Example.class to fixed my requirement.
 
+The main funciton in:
+https://github.com/m10223045/jplurk-oauth/blob/master/src/main/java/com/google/jplurk_oauth/example/Example.java
+
 
 
 
